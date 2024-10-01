@@ -1,9 +1,6 @@
 #                                                      Setting Up a Kubernetes On-Premise Cluster with kubeadm
-
-### Comprehensive Guide for Setting Up a Kubernetes Cluster on On-Premise
-
 **Note:** This guide is intended for development and staging environments only and is not appropriate for production use.
----
+
 
 ## 1. **Prerequisites**
 
