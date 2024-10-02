@@ -8,14 +8,14 @@
 - **Master Node:**
   - CPU: Minimum 2 cores
   - Memory: Minimum 2 GB RAM (4 GB recommended)
-  - Disk: 10 GB or more
+  - Disk: 30 GB or more
 
 - **Worker Node:**
   - CPU: Minimum 1 core
   - Memory: Minimum 1 GB RAM (2 GB recommended)
-  - Disk: 10 GB or more
+  - Disk: 30 GB or more
 
-### **Software Requirements**
+### **OS Requirements**
 - **Operating System:**
   - Ubuntu 20.04 or 22.04 LTS
   - Ensure both nodes have the same OS version and kernel version.
