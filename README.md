@@ -74,6 +74,11 @@ Disabling swap is essential for Kubernetes to function.
   sudo sed -i '/ swap / s/^/#/' /etc/fstab
   sudo swapoff -a
   ```
+  Confirm if the setting is correct
+
+sudo swapoff -a
+sudo mount -a
+free -h
 
 - **Enable Kernel Modules**:
   ```bash
